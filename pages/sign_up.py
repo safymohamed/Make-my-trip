@@ -1,4 +1,5 @@
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 
 class sign_up:
     username_elemant = (By.ID, 'username')
